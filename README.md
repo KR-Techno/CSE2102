@@ -1,3 +1,1 @@
 # CSE2102
-
-# CSE2102 Lab Git
