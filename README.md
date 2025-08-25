@@ -1,1 +1,1 @@
-# CSE2102
+Welcome to CSE2102 lab!
